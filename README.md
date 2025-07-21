@@ -12,7 +12,9 @@
   <a href="https://tinyurl.com/24hveqfs"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
   <a href="https://www.instagram.com/smart_rowdy14/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white">
   <a href="https://www.hackerrank.com/profile/v12171342"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat&logo=hackerrank&logoColor=white">
-  <a href="tel:+916369485275"><img src="https://img.shields.io/badge/Call-Now-0A66C2?style=flat&logo=phone&logoColor=white">
+  <a href="tel:+916369485275"><img src="https://img.shields.io/badge/Call%20Now-+91%206369485275-brightgreen?style=flat&logo=phone&logoColor=white">
+</a>
+
 </a>
 
 </a>
