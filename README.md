@@ -86,6 +86,16 @@
 
 ---
 
+
+## 🏆 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Suresh6384&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
+
+---
+
+
 ## 📂 Featured Projects
 
 | Project | Tech Stack | Description |
