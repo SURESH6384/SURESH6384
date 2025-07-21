@@ -11,7 +11,9 @@
   <a href="sureshv14112005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail"></a>
   <a href="https://tinyurl.com/24hveqfs"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
   <a href="https://www.instagram.com/smart_rowdy14/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white">
-  <a href="https://wa.me/916369485275"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp&logoColor=white">
+ <a href="https://www.hackerrank.com/profile/v12171342"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat&logo=hackerrank&logoColor=white">
+</a>
+
 </a>
 
 </a>
