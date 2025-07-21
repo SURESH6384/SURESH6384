@@ -10,6 +10,9 @@
 <p align="center">
   <a href="sureshv14112005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail"></a>
   <a href="https://tinyurl.com/24hveqfs"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.instagram.com/smart_rowdy14/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white">
+</a>
+
 </p>
 
 ---
