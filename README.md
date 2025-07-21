@@ -1,3 +1,6 @@
+
+<img width="945" height="250" alt="github-header-image" src="https://github.com/user-attachments/assets/3051e887-eb05-4800-a04d-ee93f25111b6" />
+
 <h1 align="center">Hi there 👋, I'm Suresh Venkatesan</h1>
 
 <p align="center">
