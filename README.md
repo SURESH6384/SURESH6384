@@ -10,7 +10,7 @@
 <p align="center">
   <a href="sureshv14112005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail"></a>
   <a href="https://tinyurl.com/24hveqfs"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/Suresh6384"><img src="https://img.shields.io/github/followers/Suresh6384?style=social"></a>
+  <a href="[https://github.com/Suresh6384](https://github.com/SURESH6384)"><img src="https://img.shields.io/github/followers/Suresh6384?style=social"></a>
 </p>
 
 ---
