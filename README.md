@@ -53,13 +53,15 @@
 
 ---
 
-### 📊 Stats & Achievements
+### 🏆 Achievements Unlocked
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-800+-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Maintained-Yes-azure?style=for-the-badge&logo=github-actions" />
-  <img src="https://img.shields.io/badge/Achievements-Unlocked-gold?style=for-the-badge&logo=github-sponsors" />
+  <img src="https://github-profile-achievements.vercel.app/api?username=SURESH6384&theme=tokyonight&compact=true" alt="GitHub Achievements" width="100%" />
 </p>
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SURESH6384&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats" height="180"/>
