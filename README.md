@@ -41,27 +41,14 @@
 
 ---
 
-### 🐍 Contribution Activity
-
+### 📈 GitHub Activity Graph
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SURESH6384/SURESH6384/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SURESH6384/SURESH6384/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SURESH6384/SURESH6384/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SURESH6384&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
 
-### 🏆 Achievements Unlocked
-
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api?username=SURESH6384&theme=tokyonight&compact=true" alt="GitHub Achievements" width="100%" />
-</p>
-
----
-
-### 📊 GitHub Analytics
+### 📊 Stats & Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SURESH6384&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats" height="180"/>
@@ -70,6 +57,18 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SURESH6384&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SURESH6384/SURESH6384/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SURESH6384/SURESH6384/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SURESH6384/SURESH6384/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
