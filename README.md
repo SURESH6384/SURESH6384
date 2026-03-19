@@ -53,10 +53,12 @@
 
 ---
 
-### 📊 Stats & Trophies
+### 📊 Stats & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SURESH6384&theme=tokyonight&column=7&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Commits-800+-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-azure?style=for-the-badge&logo=github-actions" />
+  <img src="https://img.shields.io/badge/Achievements-Unlocked-gold?style=for-the-badge&logo=github-sponsors" />
 </p>
 
 <p align="center">
