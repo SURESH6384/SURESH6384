@@ -1,148 +1,87 @@
-
-<img width="945" height="250" alt="github-header-image" src="https://github.com/user-attachments/assets/3051e887-eb05-4800-a04d-ee93f25111b6" />
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/3051e887-eb05-4800-a04d-ee93f25111b6" alt="github-header-image" />
+</p>
 
 <h1 align="center">Hi there 👋, I'm Suresh Venkatesan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="sureshv14112005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail"></a>
-  <a href="https://tinyurl.com/24hveqfs"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-  <a href="https://www.instagram.com/smart_rowdy14/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white">
-  <a href="https://www.hackerrank.com/profile/v12171342"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat&logo=hackerrank&logoColor=white">
-  <a href="tel:+916369485275"><img src="https://img.shields.io/badge/Call%20Now-+91%206369485275-brightgreen?style=flat&logo=phone&logoColor=white">
-</a>
-
-</a>
-
-</a>
-
-</a>
-
-</a>
-
+  <a href="mailto:sureshv14112005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://tinyurl.com/24hveqfs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.hackerrank.com/profile/v12171342"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+  <a href="tel:+916369485275"><img src="https://img.shields.io/badge/Call%20Now-44CC11?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call"></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Web Development, DSA, and Open Source**
-- 🌱 Learning full stack development: **MERN / MEAN / Django**
-- 💬 Ask me about anything related to:
-  - Java, C++, Python
-  - Web dev (HTML/CSS/JS, Node.js, React, Express)
-  - SQL, MongoDB
-  - Git, Linux, APIs
+- 🌱 Learning full stack development: **MERN / Django / Next.js**
+- 💬 Ask me about **Java, Python, React, or SQL**
 - ⚡ Fun Fact: I love debugging and reverse engineering stuff!
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<div align="center">
 
-### 🌐 Front-End
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend** | ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
-### 🛠️ Back-End
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suresh6384&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh6384&layout=compact&theme=github_dark" alt="Top Languages" height="150"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suresh6384/Suresh6384/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suresh6384/Suresh6384/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Suresh6384/Suresh6384/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+### 📊 Stats & Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Suresh6384/Suresh6384/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Suresh6384&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh6384&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Suresh6384&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Suresh6384&theme=tokyonight&no-bg=true&margin-w=5" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suresh6384&theme=darkhub&no-bg=true&margin-w=5" alt="GitHub Trophies"/>
-</p>
-
----
-
-
-## 🏆 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Suresh6384&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
-
----
-
-
-## 📂 Featured Projects
+### 📂 Featured Projects
 
 | Project | Tech Stack | Description |
-|--------|------------|-------------|
-| **Portfolio Website** | HTML, CSS, JS | Personal portfolio showcasing my work |
-| **Student Management System** | Python, MySQL | A desktop app to manage student data |
-| **ToDo App** | React, Node.js, MongoDB | A full stack CRUD app to manage tasks |
-| **Blog Platform** | MERN stack | Blog web application with user login |
+| :--- | :--- | :--- |
+| **[Portfolio](https://github.com/Suresh6384)** | HTML, CSS, JS | Personal portfolio showcasing my work. |
+| **[Student Mgmt](https://github.com/Suresh6384)** | Python, MySQL | A desktop app to manage student data. |
+| **[ToDo App](https://github.com/Suresh6384)** | MERN Stack | Full stack CRUD app with Auth. |
 
 ---
-
-## 📅 Currently Learning
-
-- 🔵 TypeScript & Next.js  
-- 🟢 Docker & DevOps Basics  
-- 🟡 Data Structures & Algorithms  
-- 🟣 System Design for Interviews
-
----
-
-## 📫 Let's Connect!
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/suresh6384/)
-- 💌 Email: suresh6384@example.com  
-- 🗣️ Portfolio: *(Coming Soon)*  
-- 🌐 Website: *(In progress...)*
-
----
-
-## ✍️ Quote of the Day
-
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
-
----
-
-## 💖 Support
-
-If you like what I do, consider giving a ⭐ to my repos and following me!
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/Suresh6384?style=social" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=60&section=footer" width="100%"/>
 </p>
