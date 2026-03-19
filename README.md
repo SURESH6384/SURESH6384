@@ -56,16 +56,16 @@
 ### 📊 Stats & Trophies
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SURESH6384&theme=tokyonight&column=7&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SURESH6384&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURESH6384&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SURESH6384&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SURESH6384&theme=tokyonight&no-bg=true&margin-w=5" alt="GitHub Trophies"/>
 </p>
 
 ---
