@@ -12,7 +12,7 @@
   <a href="mailto:sureshv14112005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://tinyurl.com/24hveqfs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.hackerrank.com/profile/v12171342"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-  <a href="tel:+916369485275"><img src="https://img.shields.io/badge/Call%20Now-44CC11?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call"></a>
+  <a href="tel:+916369485275"><img src="https://img.shields.io/badge/Call%20Now-44CC11?style=for-the-badge&logo=phone&logoColor=white" alt="Call"></a>
 </p>
 
 ---
@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on **Web Development, DSA, and Open Source**
 - 🌱 Learning full stack development: **MERN / Django / Next.js**
 - 💬 Ask me about **Java, Python, React, or SQL**
-- ⚡ Fun Fact: I love debugging and reverse engineering stuff!
+- ⚡ Fun Fact: I treat debugging like a detective mystery — I won't sleep until I find the culprit!
 
 ---
 
@@ -41,13 +41,13 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Activity
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suresh6384/Suresh6384/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suresh6384/Suresh6384/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Suresh6384/Suresh6384/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SURESH6384/SURESH6384/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SURESH6384/SURESH6384/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SURESH6384/SURESH6384/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -56,16 +56,16 @@
 ### 📊 Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suresh6384&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh6384&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SURESH6384&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURESH6384&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Suresh6384&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SURESH6384&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suresh6384&theme=tokyonight&no-bg=true&margin-w=5" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SURESH6384&theme=tokyonight&no-bg=true&margin-w=5" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -74,14 +74,14 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[Portfolio](https://github.com/Suresh6384)** | HTML, CSS, JS | Personal portfolio showcasing my work. |
-| **[Student Mgmt](https://github.com/Suresh6384)** | Python, MySQL | A desktop app to manage student data. |
-| **[ToDo App](https://github.com/Suresh6384)** | MERN Stack | Full stack CRUD app with Auth. |
+| **[Portfolio](https://github.com/SURESH6384)** | HTML, CSS, JS | Personal portfolio showcasing my work. |
+| **[Student Mgmt](https://github.com/SURESH6384)** | Python, MySQL | A desktop app to manage student data. |
+| **[ToDo App](https://github.com/SURESH6384)** | MERN Stack | Full stack CRUD app with Auth. |
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Suresh6384?style=social" />
+  <img src="https://img.shields.io/github/stars/SURESH6384?style=social" />
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=60&section=footer" width="100%"/>
 </p>
